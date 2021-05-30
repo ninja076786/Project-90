@@ -1,3 +1,7 @@
+var oo1=document.getElementById("player1_name_input_1").value;
+var oo2=document.getElementById("player2_name_input_2").value;
+document.getElementById("name_1").innerHTML=oo1+" : "
+document.getElementById("name_2").innerHTML=oo2+" : "
 function MUAHAHA(){
   window.location="moneyy.html";
      }
